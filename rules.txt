@@ -1,0 +1,9 @@
+Rock wins against scissors.
+Scissors win against paper.
+Paper wins against rock.
+
+Rock paper scissors is a hand game originating from China, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is identical to the two-fingered V sign (also indicating "victory" or "peace") except that it is pointed horizontally instead of being held upright in the air.
+
+Rock Paper Scissors game is converted into a fun online single player game. The computer picks rock, paper or scissor randomly and as the player selects one of the option, the computer announces the result. A simultaneous, zero-sum game, it has three possible outcomes: a draw, a win or a loss. Rock crushes scissors, paper covers rock and scissors cuts paper. But if both the computers and players choice coincides, the game is tied. Accordingly, the result is shown.
+
+When one is unable to decide what to do, he/she can play this game , leave the outcome on fate and thus, come to final conclusion. It is similar to rolling a dice, odds and evens, asking someone to choose one finger out of two and many other ways to come to a firm decision.
